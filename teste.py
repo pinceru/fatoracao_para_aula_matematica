@@ -25,6 +25,7 @@ def fatorar_um_numero(numero, a, b, c):
         else:
             indice += 1
             
+            
 
 if __name__ == "__main__":
     fatorar_um_numero(30)
